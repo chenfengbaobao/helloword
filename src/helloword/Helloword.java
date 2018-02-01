@@ -11,6 +11,12 @@ public class Helloword {
 		
 		
 		System.out.println("hello word ! ");
+		System.out.println("hello word ! ");
+		System.out.println("hello word ! ");
+		System.out.println("hello word ! ");
+		System.out.println("hello word ! ");
+		System.out.println("hello word ! ");
+		System.out.println("hello word ! ");
 		
 	}
 
